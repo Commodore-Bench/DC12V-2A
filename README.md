@@ -12,7 +12,7 @@ This DC converter is the twin brother of [this 5V version](https://github.com/DL
 
 
 
-# Technical
+## Technical
 
 A switching regulator from Texas Instruments in the form of the TPS54332DDAR was used. On the one hand, this is exactly what I needed in terms of data, it is inexpensive and easy to install.
 
@@ -32,7 +32,9 @@ Under full load, that is 2A the ripple still looks pretty good in my opinion. I 
 
 ![](https://github.com/DL2DW/DC12V-2A/blob/main/Images/DC12V-2A_PCB_ripple.png)
 
-# BOM
+
+
+## BOM
 
 Here is the parts list for the DC converter. Of course you don't have to use exactly these brands. However, I give to note that comparison types, especially if they have a somewhat poorer quality, can have a negative effect on the ripple.
 
@@ -55,6 +57,12 @@ Here is the parts list for the DC converter. Of course you don't have to use exa
 | 1        | U1         | Texas  Instruments | TPS54332DDAR                | TEXAS  INSTRUMENTS - TPS54332DDAR - DC/DC CONV, BUCK, 1MHZ, SOIC-8 |
 
 
+
+## PCB
+
+The PCB can either be ordered directly from [PCBWay](https://www.pcbway.com/project/shareproject/DC12V_2A_TO_3_Voltage_regulator.html), or you can create it yourself from the Gerber files available here.
+
+[![PCBWay](https://www.pcbway.com/project/img/images/frompcbway.png)](https://www.pcbway.com/project/shareproject/DC12V_2A_TO_3_Voltage_regulator.html)
 
 
 
